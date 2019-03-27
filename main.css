@@ -1,0 +1,50 @@
+
+
+#main{
+    text-align: center;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+body {
+    background-image: url("https://uploads.disquscdn.com/images/fa4ee64b8ea90c39ff026eb9cd1fea21ccfc600eba26ecdc88e970ddcdb063e2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%; 
+    background-attachment: fixed;
+}
+#gCan{
+height: 0%;
+width: 45%;
+margin-left: 27%;
+}
+#asp{
+    height: 0%;
+    width: 40%;
+    margin-left: 30%;
+    }
+#out{
+    height: 0%;
+    width: 38%;
+    margin-left: 32%;
+}
+.info{
+    float: left;
+}
+.card-title{
+    text-align: center;
+}
+#nex{
+    float: right;
+}
+#hom{
+    float: left;
+    margin-right: 20%;
+}
+.card{
+    opacity: .9;
+    color: black;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+}

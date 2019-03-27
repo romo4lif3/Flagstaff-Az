@@ -1,0 +1,68 @@
+body{
+    background-image: url("https://s3-us-west-1.amazonaws.com/contentlab.studiod/getty/1fe570ad9f57456db4c86738ad08f1e0");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: cover;
+}
+
+#rock{
+max-width: 325px;
+max-height: 450px;
+margin-left: 1%;
+}
+.title{
+    text-align: center;
+}
+#nex{
+    float: right;
+}
+#hom{
+    float: left;
+    margin-right: 26%;
+}
+#walCan{
+    width: 400px;
+    height: 350px;
+    margin-left: 0%;
+}
+.card-title{
+    text-align: center;
+}
+.bigUrl{
+    width: 450px;
+    height: 400px;
+    float: left;
+}
+#lava{
+    width: 375px;
+    height: 250px;
+    margin-left: 2%;
+}
+#mCan{
+    margin-left: 0%;
+    margin-right: 0%;
+}
+#road{
+    float: left;
+    margin-right: 11%;
+    height: 300px;
+    width: 400px;
+}
+#pond{
+    height: 250px;
+    width: 350px;
+}
+.card{
+    opacity: .9;
+    color: black;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#sideV{
+    width: 400px;
+    height: 350px;
+    margin-left: 4%;
+}

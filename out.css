@@ -1,0 +1,59 @@
+#can{
+    width: 400px;
+    height: 475px;
+}
+.lake{
+    width: 400px;
+    height: 300px;
+}
+#nex{
+    float: right;
+}
+#hom{
+    float: left;
+    margin-right: 25%;
+}
+.card-title{
+    text-align: center;
+}
+body{
+    background-image: url("http://www.mountainbikebill.com/images/Trails/AZ06/AZ06-Flagstaff-1AUG06-17.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%; 
+    background-attachment: fixed;
+}
+.card{
+    opacity: .9;
+    color: black;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.up{
+    margin-right: 4%;
+    width: 400px;
+    height: 300px;
+}
+.xtrme{
+    width: 400px;
+    height: 300px;
+}
+#hang{
+    margin-right: 4%;
+}
+.sBowl{
+    width: 400px;
+    height: 300px;
+}
+#vis{
+    margin-left: 4%;
+}
+.hike{
+    width: 400px;
+    height: 300px;
+}
+#lok{
+    margin-left: 4%;
+}
